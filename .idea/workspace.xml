@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bad9226-c888-44ef-9236-458f7a099272" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks/Logistic Regression/requirements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/lr_utils.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/main.py" />
-    </list>
+    <list default="true" id="3bad9226-c888-44ef-9236-458f7a099272" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,32 +117,6 @@
             <path>
               <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
-              <item name="Logistic Regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
-              <item name="Logistic Regression" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
-              <item name="Logistic Regression" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
