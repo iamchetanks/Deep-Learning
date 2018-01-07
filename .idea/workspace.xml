@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bad9226-c888-44ef-9236-458f7a099272" name="Default" comment="" />
+    <list default="true" id="3bad9226-c888-44ef-9236-458f7a099272" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/output.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/output.txt" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,58 +15,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lr_utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/lr_utils.py">
+      <file leaf-file-name="dnn_app_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/dnn_app_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="240" selection-end-column="12" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="twolayer_app_utils.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/twolayer_app_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3842">
+              <caret line="226" column="12" lean-forward="false" selection-start-line="226" selection-start-column="12" selection-end-line="226" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/main.py">
+        <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <state relative-caret-position="-952">
+              <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="e#1018#1051#0" expanded="false" />
-                <element signature="e#1579#1665#0" expanded="false" />
-                <element signature="e#1884#1907#0" expanded="false" />
-                <element signature="e#2720#2853#0" expanded="false" />
-                <element signature="e#3543#3644#0" expanded="false" />
-                <element signature="e#4609#4661#0" expanded="false" />
-                <element signature="e#5222#5261#0" expanded="false" />
-                <element signature="e#5326#5374#0" expanded="false" />
-                <element signature="e#5490#5524#0" expanded="false" />
-                <element signature="e#5645#6569#0" expanded="false" />
-                <element signature="e#7073#8506#0" expanded="false" />
-                <element signature="e#7073#7923#1" expanded="false" />
-                <element signature="e#7985#8381#0" expanded="false" />
-                <element signature="e#8508#8560#0" expanded="false" />
-                <element signature="e#8851#9082#0" expanded="false" />
-                <element signature="e#9279#9296#0" expanded="false" />
-                <element signature="e#9893#11643#0" expanded="false" />
-                <element signature="e#11699#12397#0" expanded="false" />
-                <element signature="e#12399#12420#0" expanded="false" />
+                <element signature="e#662#673#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="81" column="79" lean-forward="false" selection-start-line="81" selection-start-column="79" selection-end-line="81" selection-end-column="79" />
+              <folding>
+                <element signature="e#658#669#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,6 +82,13 @@
         <option value="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/README.md" />
         <option value="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/lr_utils.py" />
         <option value="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/main.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/dnn_app_utils_v2.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/output.txt" />
+        <option value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/output.txt" />
+        <option value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/dnn_app_utils.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/twolayer_app_utils.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/main.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/main.py" />
       </list>
     </option>
   </component>
@@ -118,6 +121,53 @@
               <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="2 Layer Neural Network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="2 Layer Neural Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="2 Layer Neural Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Neural Network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Neural Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Deep Neural Network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,20 +190,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="lr_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="dnn_app_utils_v2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Deep-Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/lr_utils.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/dnn_app_utils_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dnn_app_utils_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Deep-Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/dnn_app_utils_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Deep-Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Deep-Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,14 +281,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.lr_utils" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dnn_app_utils_v2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dnn_app_utils_v2 (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lr_utils" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dnn_app_utils_v2 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dnn_app_utils_v2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -206,8 +316,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15580286" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18124007" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -338,36 +449,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Neural Networks/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/src/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/src/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -391,10 +488,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/lr_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="391">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/lr_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -403,13 +535,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Neural Networks/Logistic Regression/src/model/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        <state relative-caret-position="288">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="33" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#859#877#0" expanded="true" />
             <element signature="e#1018#1051#0" expanded="false" />
             <element signature="e#1579#1665#0" expanded="false" />
-            <element signature="e#1884#1907#0" expanded="false" />
             <element signature="e#2720#2853#0" expanded="false" />
             <element signature="e#3543#3644#0" expanded="false" />
             <element signature="e#4609#4661#0" expanded="false" />
@@ -430,14 +561,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/dnn_app_utils_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="80" column="28" lean-forward="false" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/cost-reduction-vs-iteration-graph.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/dnn_app_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="240" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-952">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding>
+            <element signature="e#662#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Deep Neural Network/src/model/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="79" lean-forward="false" selection-start-line="81" selection-start-column="79" selection-end-line="81" selection-end-column="79" />
+          <folding>
+            <element signature="e#658#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/2 Layer Neural Network/src/model/twolayer_app_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3842">
+          <caret line="226" column="12" lean-forward="false" selection-start-line="226" selection-start-column="12" selection-end-line="226" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
